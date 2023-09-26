@@ -1,0 +1,25 @@
+.page-com-imagem-fundo {
+    background-image: url(https://uploaddeimagens.com.br/images/004/615/368/thumb/Backgraund.png?1695305633); /* Caminho para a imagem no diretório "assets" */
+    background-size: cover; /* Redimensiona a imagem para cobrir todo o elemento */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+  }
+  
+.menu-item {
+    background-color: rgb(151, 1, 1);
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .menu-text {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .menu-icon {
+    font-size: 25px;
+    color: #ffffff; /* Cor do ícone, você pode ajustar a cor conforme desejado */
+  }
+  
